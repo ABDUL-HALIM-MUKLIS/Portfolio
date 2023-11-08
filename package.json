@@ -2,7 +2,7 @@
   "devDependencies": {
     "prettier": "^2.6.2",
     "prettier-plugin-tailwindcss": "^0.1.8",
-    "tailwindcss": "^3.0.23"
+    "tailwindcss": "^3.3.5"
   },
   "name": "tallwind-potofolio",
   "version": "1.0.0",
